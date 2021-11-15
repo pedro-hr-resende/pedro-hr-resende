@@ -5,7 +5,6 @@
 - 🔭 Atualmente estudo Ciência da Computação e Engenharia de Software
 - 🌱 Comecei a estudar Kotlin para a área de desenvolvimento mobile
 - 📫 Contate-me no e-mail: pedro.hr.resende@gmail.com
-- 📱 Veja meu LinkedIn: https://www.linkedin.com/in/pedro-hr-resende/
 - 🤔 Curiosidade: me formei em Engenharia Mecânica, mas sempre gostei de programação
 
 ##
@@ -13,8 +12,8 @@
 
 <div>
   <a href = "https://github.com/pedro-hr-resende">
-  <img height = "160em" src = "https://github-readme-stats.vercel.app/api?username=pedro-hr-resende&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height = "160em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-hr-resende&layout=compact&langs_count=16&theme=dark"/>
+  <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=pedro-hr-resende&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-hr-resende&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
 <div style = "display: inline_block"> <br>
@@ -26,6 +25,10 @@
 <br>
   
 <div>
-  <a href = "https://instagram.com/computing.gear" target = "_blank"> <img src = "https://img.shields.io/badge/~Instagram-%23E4405F?style~for-the-badge&logo~instagram&logoColor~white" target = "_blank"> </a>
-  <a href = "https://instagram.com/computing.gear" target = "_blank"> <img src = "https://www.flaticon.com/br/icone-premium/instagram_3955024?term=instagram&page=1&position=2&page=1&position=2&related_id=3955024&origin=search" target = "_blank"> </a>
+  <a href = "https://instagram.com/computing.gear" target = "_blank"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target = "_blank"> </a>
+  <a href = "https://facebook.com/pedro.hr.resende" target = "_blank"> <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target = "_blank"> </a>
+  <a href = "https://www.linkedin.com/in/pedro-hr-resende/" target = "_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank"> </a>  
 </div>
+
+##
+<br>
