@@ -3,9 +3,9 @@
 <br>
 
 - 🔭 Atualmente estudo Ciência da Computação e Engenharia de Software
-- 🌱 Comecei a estudar Kotlin para a área de desenvolvimento mobile
+- 🌱 Estudo tecnologias voltadas para a plataforma Java e sou curioso por outras aquecidas no mercado
 - 📫 Contate-me no e-mail: pedro.hr.resende@gmail.com
-- 🤔 Curiosidade: me formei em Engenharia Mecânica, mas sempre gostei de programação
+- 🤔 Curiosidade: me formei em Engenharia Mecânica, mas sempre gostei de programação!
 
 ##
 <br>
