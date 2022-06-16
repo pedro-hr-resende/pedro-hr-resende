@@ -1,11 +1,11 @@
-### Olá! Eu sou o Pedro!
+### Hi! I'm Pedro!
 
 <br>
 
-- 🔭 Atualmente estudo Ciência da Computação e Engenharia de Software
-- 🌱 Estudo tecnologias voltadas para a plataforma Java e sou curioso por outras aquecidas no mercado
-- 📫 Contate-me no e-mail: pedro.hr.resende@gmail.com
-- 🤔 Curiosidade: me formei em Engenharia Mecânica, mas sempre gostei de programação!
+- 🔭 I'm a student of Computer Science (UFU) and Software Engineering (Uninter)
+- 🌱 I study technologies focused on the Java platform and I'm curious about other that are widely used in the market
+- 📫 Contact me: pedro.hr.resende@gmail.com
+- 🤔 Fun fact: I graduated in Mechanical Engineering, but always liked programming
 
 ##
 <br>
@@ -17,13 +17,16 @@
 </div>
   
 <div style = "display: inline_block"> <br>
-  <img align = "center" alt = "pedroHaskell" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
-  <img align = "center" alt = "pedroC" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align = "center" alt = "pedroC" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align = "center" alt = "pedroJava" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align = "center" alt = "pedroHTML" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align = "center" alt = "pedroCSS" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  <img align = "center" alt = "pedroJavaScript" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
 ##
 <br>
-  
+        
 <div>
   <a href = "https://instagram.com/computing.gear" target = "_blank"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target = "_blank"> </a>
   <a href = "https://facebook.com/pedro.hr.resende" target = "_blank"> <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target = "_blank"> </a>
