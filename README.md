@@ -3,7 +3,7 @@
 <br>
 
 - 🔭 I'm a student of Computer Science (UFU) and Software Engineering (Uninter)
-- 🌱 I study technologies focused on the Java platform and I'm curious about others that are widely used in the market
+- 🌱 I study technologies focused on Java platform and I'm curious about others widely used in the market
 - 📫 Contact me: pedro.hr.resende@gmail.com
 - 🤔 Fun fact: I graduated in Mechanical Engineering, but always liked programming
 
